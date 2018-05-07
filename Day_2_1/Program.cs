@@ -17,6 +17,7 @@ namespace Day_2_1
             Console.WriteLine("Ievadiet savu dzimsanas gadu!");
             string gads = Console.ReadLine();
             Console.WriteLine("Jusu dzimsanas diena ir: " + diena + menesis + " " + gads);
+            Console.WriteLine("Github test!");
             Console.Read();
         }
     }
